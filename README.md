@@ -1,1 +1,1 @@
-# RAG_Application
+# INFO6105_FinalProject_RAG
