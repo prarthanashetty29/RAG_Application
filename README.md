@@ -21,8 +21,7 @@ Streamlit Web Interface: A user-friendly and interactive interface built with St
  # Run the Application:
   Start the Streamlit application with the following command:
   streamlit run app.py
- # Access the App:
- Navigated to http://localhost:8501 in the web browser to access the app.
+
  # Project Structure
 -app.py: The main application file containing Streamlit UI components.
 -requirements.txt: A list of Python libraries required for the project.
